@@ -95,9 +95,7 @@
   <a href="https://instagram.com/praneeth__chamarthy" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=spamprx" alt="visitors"/>
-</p>
+
 
 <p align="center">
   <i>Thank you for visiting my profile! Feel free to connect with me or check out my projects.</i>
