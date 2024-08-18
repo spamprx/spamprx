@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 🔭 I'm currently working on **Social Media Scheduling tools**
 - 🌱 I'm currently learning **Next.js, Advanced TypeScript and Vue.js**
-- - 👯 I’m looking to collaborate on **React Dynamic Projects**
+- 👯 I’m looking to collaborate on **React Dynamic Projects**
 - 🤝 I’m looking for help with **Advanced Backend Development**
 - 👨‍💻 All of my projects are available at [https://github.com/spamprx](https://github.com/spamprx)
 - 💬 Ask me about **React, GSAP and Frontend Development**
