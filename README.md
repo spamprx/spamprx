@@ -74,11 +74,6 @@
   </tr>
 </table>
 
-## 💼 Skills
-![JavaScript](https://progress-bar.dev/90/?title=JavaScript)
-![React](https://progress-bar.dev/85/?title=React)
-![Node.js](https://progress-bar.dev/80/?title=Node.js)
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -90,9 +85,6 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spamprx&theme=radical" />
 </div>
 
-## 📘 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 🙏 Support
 <a href="https://www.buymeacoffee.com/praneethchamarthy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
