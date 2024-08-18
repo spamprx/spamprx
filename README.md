@@ -7,15 +7,18 @@
 
 ## 🚀 About Me
 - 🔭 I'm currently working on **Social Media Scheduling tools**
-- 🌱 I'm currently learning **Next.js,Advanced TypeScript and Vue.js**
+- 🌱 I'm currently learning **Next.js, Advanced TypeScript and Vue.js**
 - 💬 Ask me about **React, GSAP and Frontend Development**
 - 📫 How to reach me: **praneethchamarthy45@gmail.com**
 
-# 🌐 Connect with me
+## 🔭 I'm currently working on
+- [Social Media Scheduler](https://github.com/spamprx/social-media-scheduler)
+
+## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praneeth-chamarthy)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/praneeth__chamarthy)
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <table>
   <tr>
@@ -68,10 +71,12 @@
   </tr>
 </table>
 
+## 💼 Skills
+![JavaScript](https://progress-bar.dev/90/?title=JavaScript)
+![React](https://progress-bar.dev/85/?title=React)
+![Node.js](https://progress-bar.dev/80/?title=Node.js)
 
-
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spamprx&show_icons=true&theme=radical" />
@@ -80,11 +85,24 @@
 <br/>
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spamprx&theme=radical" />
-  
 </div>
 
+## 📘 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<img src="https://raw.githubusercontent.com/spamprx/spamprx/output/snake.svg" alt="Snake animation" />
+## 🙏 Support
+<a href="https://www.buymeacoffee.com/praneethchamarthy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+## 🌐 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/praneeth-chamarthy" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://instagram.com/praneeth__chamarthy" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=spamprx.spamprx" alt="visitors"/>
+</p>
 
 <p align="center">
   <i>Thank you for visiting my profile! Feel free to connect with me or check out my projects.</i>
