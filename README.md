@@ -15,7 +15,7 @@
 - 📫 How to reach me: **praneethchamarthy45@gmail.com**
 
 ## 🔭 I'm currently working on
-- [Social Media Scheduler](https://github.com/spamprx/social-media-scheduler)
+- [Social Media Scheduler](https://github.com/spamprx/Scheduler)
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praneeth-chamarthy)
