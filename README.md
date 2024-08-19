@@ -86,9 +86,6 @@
 </div>
 
 
-## 🙏 Support
-<a href="https://www.buymeacoffee.com/praneethchamarthy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 ## 🌐 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/praneeth-chamarthy" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
